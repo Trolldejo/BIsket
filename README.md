@@ -1,4 +1,5 @@
 BIsket
 ======
 
-An arena for playing basket with to AI.
+An arena for playing basket with two AI.
+
